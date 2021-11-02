@@ -1,4 +1,4 @@
-- 👋 Hello, there I am Dnyanada,
+- 👋 Hello,I am Dnyanada,
 - 👀 I’m interested in exploring Open sources to grow my Career,
 - 🌱 I’m currently learning Web Development, Python and working on DSa,
 - 💞️ I’m looking to collaborate with other developers and organizations contributing to open source,
