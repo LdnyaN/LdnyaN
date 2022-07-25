@@ -1,6 +1,6 @@
 - 👋 Hello,I am Dnyanada, a Third year Computer Science student.
 - 👀 I’m interested in exploring Open sources to grow my Career,
-- 🌱 Languages - Python,C, HTML.
+- 🌱 Languages - Python,C, Java.
 - 💞️ I’m looking to collaborate with other developers and organizations contributing to open source,
 - 📫 How to reach me: You may follow me on [Linkedin](https://www.linkedin.com/in/dnyanada-l-4bb501214/)
 - 😄 Pronouns: she/her
