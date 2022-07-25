@@ -1,4 +1,4 @@
-- 👋 Hello,I am Dnyanada, a sophomore Computer Science student.
+- 👋 Hello,I am Dnyanada, a Third year Computer Science student.
 - 👀 I’m interested in exploring Open sources to grow my Career,
 - 🌱 Languages - Python,C, HTML.
 - 💞️ I’m looking to collaborate with other developers and organizations contributing to open source,
